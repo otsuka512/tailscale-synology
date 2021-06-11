@@ -1,3 +1,8 @@
+## v1.8.7 (2021-06-11)
+- tailscale v1.8.7 static binaries (stable)
+  [changelog](https://github.com/tailscale/tailscale/compare/v1.8.5...v1.8.7)
+  [v1.8.7 release notes](https://github.com/tailscale/tailscale/releases/tag/v1.8.7)
+
 ## v1.8.5 (2021-05-25)
 - tailscale v1.8.5 static binaries (stable)
   [changelog](https://github.com/tailscale/tailscale/compare/v1.8.3...v1.8.5)
