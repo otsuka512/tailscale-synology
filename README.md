@@ -8,6 +8,12 @@ Synology NAS package for Tailscale based on precompiled static binaries.
 You use everything here at your own risk. Make sure you have other network
 paths to your NAS before installing this, in case something goes wrong.
 
+## Note
+
+* We strongly recommend using the official package.
+* 1.12.1 exist routing bug
+* 1.14.0 cannot start daemon
+
 ## Installation
 
 Check the [releases](https://github.com/tailscale/tailscale-synology/releases)
